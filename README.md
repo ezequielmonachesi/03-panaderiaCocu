@@ -2,6 +2,10 @@
 
 Este proyecto es una practica de maquetado de una panaderia llamada Cocu.
 
+## Demo
+
+[Panadería Cocu](https://panaderiacocurc.netlify.app/)
+
 ## Librerias / herramientas 🛠️
 
 - [Bootstrap v5.3](https://getbootstrap.com/)
